@@ -28,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect with Me
 
-*   LinkedIn: [Your LinkedIn Profile URL]
+*   LinkedIn: https://www.linkedin.com/in/juan-lopez-mendoza-7515a840/
 *   Blog: [Your Blog URL (if applicable)]
